@@ -4,7 +4,7 @@
 
 | Component | Part | Source | LCSC # | Qty | Unit Cost | Total |
 |---|---|---|---|---|---|---|
-| nRF52840 module | E73-2G4M08S1C | JLCPCB/Amazon | C356849 | 1 | $5.50 | $5.50 |
+| nRF52840 module | E73-2G4M08S1C | JLCPCB | C356849 | 1 | $5.50 | $5.50 |
 | ESD protection | PRTR5V0U2X | JLCPCB | C2827688 | 1 | $0.15 | $0.15 |
 | 2.4GHz dongle | nRF52840 PCA10059 | Amazon | — | 1 | $12.00 | $12.00 |
 
@@ -15,7 +15,7 @@
 | LiPo charger | TP4056 | JLCPCB | C382139 | 1 | $0.20 | $0.20 |
 | Battery protection IC | DW01A | JLCPCB | C82270 | 1 | $0.05 | $0.05 |
 | Protection MOSFET | FS8205A | JLCPCB | C2830320 | 1 | $0.10 | $0.10 |
-| 3.3V LDO | HT7333-A | JLCPCB | (user sourced) | 1 | $0.15 | $0.15 |
+| 3.3V LDO | HT7333-A | JLCPCB |  | 1 | $0.15 | $0.15 |
 | Boost converter | MT3608 | JLCPCB | C84500 | 1 | $0.25 | $0.25 |
 | Boost inductor | CKCS5040-4.7uH/M | JLCPCB | C354606 | 1 | $0.30 | $0.30 |
 | Boost diode | SS14 | JLCPCB | C2480 | 1 | $0.10 | $0.10 |
@@ -90,5 +90,5 @@
 | PCB & Assembly | $53.00 |
 | **Grand Total** | **~$235** |
 
-All PCB-mounted components ordered via JLCPCB with SMT assembly.
-Hand-soldered items: SS49E sensors (×84), Gateron KS-33 sockets (×84), EC11 encoder, OLED module, battery connector, Qi module wires.
+All PCB-mounted components are ordered via JLCPCB with SMT assembly.
+Hand-soldered items: SS49E sensors (×84), Gateron KS-33 sockets (×84), EC11 encoder, OLED module, battery connector, Qi module.
